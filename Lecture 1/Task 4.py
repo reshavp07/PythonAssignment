@@ -6,7 +6,7 @@ No3 = int(input("Enter the third number: "))
 sum_result = No1 + No2 + No3
 product_result = No1 * No2 * No3
 average_result = sum_result / 3
-print("\n--- Results ---")
+print("--- Results ---")
 print(f"Sum: {sum_result}")
 print(f"Product: {product_result}")
 print(f"Average: {average_result:.3f}")
