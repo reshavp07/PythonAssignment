@@ -4,7 +4,7 @@
 # 4. Sort the list in descending order (highest to lowest)
 
 numbers = []
-#h
+
 
 print("Enter numbers one by one. Press Enter without typing anything to quit.")
 
