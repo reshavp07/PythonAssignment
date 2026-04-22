@@ -2,6 +2,7 @@
 # 2. Use a for loop to ask for 5 names and range(5) will repeat the code inside 5 times
 # 3. Use a for/in loop to iterate through the list
 cities = []
+#hbcd
 
 
 for i in range(5):
