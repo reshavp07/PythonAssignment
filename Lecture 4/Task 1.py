@@ -4,7 +4,7 @@
 # 3. Use a for loop to roll the dice one by one
 # range(num_dice) tells the loop to run exactly that many times
 
-
+#h
 import random
 num_dice = int(input("How many dice do you want to roll? "))
 
