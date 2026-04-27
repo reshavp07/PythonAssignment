@@ -2,7 +2,7 @@
 # 2. Assume the number is prime until proven otherwise and # Prime numbers must be greater than 1
 # 3. Check every number from 2 up to (but not including) our number and If the remainder is 0, it's not prime!
 
-#hbcd
+
 
 
 number = int(input("Enter an integer: "))

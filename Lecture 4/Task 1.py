@@ -10,7 +10,7 @@ num_dice = int(input("How many dice do you want to roll? "))
 
 
 total_sum = 0
-#hello
+
 
 for i in range(num_dice):
     roll = random.randint(1, 6)
